@@ -138,18 +138,18 @@ APPS = [
         "cta": "Abrir PDF Inteligente"
     },
     {
-        "name": "Agente Catalogador",
-        "desc": "Pipeline LLM para catalogação e organização de evidências.",
-        "icon": "📘",
-        "url": "https://catalogador-pericial.up.railway.app/",
-        "cta": "Abrir Catalogador"
-    },
-    {
         "name": "Agente Mapeamento",
         "desc": "Mapeamento estrutural de documentos e extração de dados.",
-        "icon": "🗺️",
+        "icon": "�️",
         "url": "https://mapeamento-pericial.up.railway.app/",
         "cta": "Iniciar Mapeamento"
+    },
+    {
+        "name": "Agente Catalogador",
+        "desc": "Pipeline LLM para catalogação e organização de evidências.",
+        "icon": "�",
+        "url": "https://catalogador-pericial.up.railway.app/",
+        "cta": "Abrir Catalogador"
     },
     {
         "name": "Paginador de Provas",
