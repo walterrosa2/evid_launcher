@@ -162,7 +162,7 @@ APPS = [
         "name": "Extração de NFS-e",
         "desc": "Unificação e extração de dados de Notas Fiscais de Serviço.",
         "icon": "🧾",
-        "url": "http://localhost:8506",
+        "url": "https://evidnfse-production.up.railway.app/",
         "cta": "Abrir Extrator NFSe"
     },
     {
